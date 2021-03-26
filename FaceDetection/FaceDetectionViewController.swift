@@ -136,7 +136,7 @@ class FaceDetectionViewController: UIViewController, AVCaptureVideoDataOutputSam
                             self.takePicButton.backgroundColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 0.1708684816)
                             self.takePicButton.isEnabled = false
                         }
-                        self.numberOfFaces.text = "\(results.count) ziktalker(s)"
+                        self.numberOfFaces.text = "\(results.count) person(s)"
                     }
                 }
             }
