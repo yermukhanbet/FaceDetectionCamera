@@ -13,6 +13,7 @@
 		2D711EC0260DAA2E00E2B921 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D711EBE260DAA2E00E2B921 /* Main.storyboard */; };
 		2D711EC2260DAA2F00E2B921 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D711EC1260DAA2F00E2B921 /* Assets.xcassets */; };
 		2D711EC5260DAA2F00E2B921 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D711EC3260DAA2F00E2B921 /* LaunchScreen.storyboard */; };
+		2D711ECE260DAA4400E2B921 /* FaceDetectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D711ECD260DAA4400E2B921 /* FaceDetectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2D711EC1260DAA2F00E2B921 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D711EC4260DAA2F00E2B921 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D711EC6260DAA2F00E2B921 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D711ECD260DAA4400E2B921 /* FaceDetectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceDetectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2D711EBA260DAA2E00E2B921 /* SceneDelegate.swift */,
 				2D711EBC260DAA2E00E2B921 /* ViewController.swift */,
 				2D711EBE260DAA2E00E2B921 /* Main.storyboard */,
+				2D711ECD260DAA4400E2B921 /* FaceDetectionViewController.swift */,
 				2D711EC1260DAA2F00E2B921 /* Assets.xcassets */,
 				2D711EC3260DAA2F00E2B921 /* LaunchScreen.storyboard */,
 				2D711EC6260DAA2F00E2B921 /* Info.plist */,
@@ -140,6 +143,7 @@
 				2D711EBD260DAA2E00E2B921 /* ViewController.swift in Sources */,
 				2D711EB9260DAA2E00E2B921 /* AppDelegate.swift in Sources */,
 				2D711EBB260DAA2E00E2B921 /* SceneDelegate.swift in Sources */,
+				2D711ECE260DAA4400E2B921 /* FaceDetectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,7 +220,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -271,7 +275,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
