@@ -13,4 +13,6 @@ Project is created with:
 	
 ## Features
 List of features ready
-* Chech the number of faces in the screen
+* Check the number of faces in the screen
+
+# Inspired by https://www.linkedin.com/in/mahmoud-salah-a40465149/ 
