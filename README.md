@@ -16,4 +16,4 @@ List of features ready
 * Check the number of faces in the screen
 
 ## Inspired by
-https://www.linkedin.com/in/mahmoud-salah-a40465149/ 
+https://github.com/omarmhaimdat/face_ai
