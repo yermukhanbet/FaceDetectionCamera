@@ -15,4 +15,5 @@ Project is created with:
 List of features ready
 * Check the number of faces in the screen
 
-# Inspired by https://www.linkedin.com/in/mahmoud-salah-a40465149/ 
+## Inspired by
+https://www.linkedin.com/in/mahmoud-salah-a40465149/ 
